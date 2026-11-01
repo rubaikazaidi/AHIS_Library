@@ -42,6 +42,8 @@ Designed with the potential to serve **1,200+ students and library users**, the 
 
 ## 🛠️ Technical Highlights
 
+![Catalog Overview](images/Catalog.png)
+
 - External API integration for ISBN-based book information retrieval.
 - Separate workflows for students and librarians.
 - Book catalogue search and availability tracking.
