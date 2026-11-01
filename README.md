@@ -14,6 +14,8 @@ Designed with the potential to serve **1,200+ students and library users**, the 
 
 ### 👩‍🎓 Student Features
 
+![Student Dashboard](images/Dashboard.png)
+
 - **Book Search:** Search the library catalogue and check book availability.
 - **Borrowing Requests:** Submit requests to borrow books.
 - **Borrowing History:** View previous and current borrowing records.
@@ -22,6 +24,8 @@ Designed with the potential to serve **1,200+ students and library users**, the 
 
 ### 📚 Librarian Features
 
+![Librarian Dashboard](images/LibrarianDashboard.png)
+
 - **Centralised Catalogue:** View and manage book information.
 - **Borrowing Management:** Track borrowing records and book circulation.
 - **Request Management:** Approve or reject borrowing requests.
@@ -29,6 +33,8 @@ Designed with the potential to serve **1,200+ students and library users**, the 
 - **Spreadsheet Export:** Export the complete book database for record-keeping and reporting.
 
 ### ⚙️ Automated Book Cataloguing
+
+![Adding a Book](images/AddingBook.png)
 
 - **QR Code Scanner:** Scan book codes to streamline cataloguing.
 - **ISBN Lookup Integration:** Retrieve bibliographic information through external APIs using ISBN numbers.
