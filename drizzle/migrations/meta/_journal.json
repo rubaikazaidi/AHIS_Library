@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793299974007,
+      "tag": "0000_student_signup_auto_join_request",
+      "breakpoints": true
+    }
+  ]
+}
